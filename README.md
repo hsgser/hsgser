@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hsgser
 - 👀 I’m interested in AI.
-- 🌱 My research interests are Optimal Transport and Dynamic Time Warping.
+- 🌱 My research interests are Optimal Transport and Model Fusion.
 - 📫 Email: nguyentuanhaidang@gmail.com
 
 <!---
