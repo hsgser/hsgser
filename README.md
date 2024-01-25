@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dang Nguyen.
 - 👀 Please visit my homepage: [https://hsgser.github.io](https://hsgser.github.io)
-- 🌱 My research interests are Optimal Transport and Model Fusion.
 - 📫 Feel free to contact me via: nguyentuanhaidang@gmail.com
 
 <!---
