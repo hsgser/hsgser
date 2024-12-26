@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Dang Nguyen.
-- 👀 Please visit my homepage: [https://hsgser.github.io](https://hsgser.github.io)
+- 🐧 Follow me: [https://x.com/dangnth97](https://x.com/dangnth97)
+- 👀 Visit my homepage: [https://hsgser.github.io](https://hsgser.github.io)
 - 📫 Feel free to contact me via: nguyentuanhaidang@gmail.com
 
 <!---
